@@ -1,0 +1,4 @@
+ahoj
+toto je priklad
+konec
+mejte se
